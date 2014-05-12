@@ -32,6 +32,8 @@ System.out.println("x = " + x);
 System.out.println("c = " + c);
 System.out.println("b = " + b);
 System.out.println("s = " + s);
+System.out.println("s = " + s);
+System.out.println("s = " + s);
 
 }
     }
